@@ -1,0 +1,84 @@
+body {
+    background-color: #f4f5f6;
+}
+
+.container-lg {
+    background-color: #fff;
+    
+}
+
+.text-secondary{
+    font-size: 18px;
+}
+
+h1 {
+    font-size: 4rem;
+}
+
+li {
+    border-right: 1px solid #c9c9c9;
+    margin-top: 15px;
+    font-size: 1.2rem;
+    
+}
+
+
+
+.logo{
+    font-size: 3.5rem;
+
+}
+
+
+/* Stories */
+
+p{
+    font-family: sans-serif;
+    font-size: 13px;
+}
+
+.culture-row {
+    padding-top: 15px;
+    margin-top: 10px;
+    border-top: 1px solid #c9c9c9;
+
+}
+
+/* Col 3 */
+
+.debate{
+    border-top: 5px solid red;
+    border-bottom: 4px solid blue;
+}
+
+.author {
+    font-size: 11px;
+}
+
+/* In the Mag  */
+
+.magazine {
+    text-align: center;
+    border-bottom: 1px solid #c9c9c9;
+}
+
+.source1 {
+    background-color: red;
+    padding: 4px;
+    margin-top: 15px;
+    color: #fff;
+    
+}
+
+.source2{
+    color: red;
+}
+
+.mag-title{
+    margin-top: 15px;
+}
+
+.mag-image{
+    margin-bottom: 10px;
+    margin-top: 15px;
+}
